@@ -1,5 +1,7 @@
 ### Welcome! 👨🏻‍💻
 
+<img align="center" src="https://raw.githubusercontent.com/pzzzl/pzzzl/main/typing.gif"></img>
+
 ### About 👨🏻
 
 • <b>Automation Analyst</b> & <b>Web Developer</b> passionated about new technologies. <br />
