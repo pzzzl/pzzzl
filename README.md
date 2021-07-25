@@ -16,9 +16,9 @@ Furthermore: I love open source projects!
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pzzzl&theme=dracula&custom_title=Stats&hide=stars&count_private=true&show_icons=true&cache_seconds=1800&include_all_commits=true" />
-</a>
+</a> <br />
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzzzl&layout=compact&theme=dracula&custom_title=Top%20languages&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzzzl&layout=compact&theme=dracula&custom_title=Top%20languages&cache_seconds=1800&card_width=445" />
 </a>
 
 ### Projects 🛠
