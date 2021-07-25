@@ -9,6 +9,8 @@
 
 Furthermore: I love open source projects!
 
+### Contact 📞
+
 • <a href="https://www.peselli.dev">Website</a> <br />
 • <a href="https://www.linkedin.com/in/brunopeselli/">LinkedIn</a> <br />
 • <a href="https://dribbble.com/pzzzl">Dribbble</a> <br />
