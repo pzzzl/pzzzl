@@ -18,7 +18,7 @@ Furthermore: I love open source projects!
 • <a href="https://dribbble.com/pzzzl">Dribbble</a> <br />
 • <a href="mailto:bruno@peselli.dev">E-mail</a>
 
-<a href="#">
+<a href="#user-activity-overview">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pzzzl&theme=dracula&custom_title=Stats&hide=stars&count_private=true&show_icons=true&cache_seconds=1800&include_all_commits=true" />
 </a> <br />
 <a href="#">
