@@ -4,10 +4,10 @@
 
 ### About 👨🏻
 
-• <b>Automation Analyst</b> & <b>Web Developer</b> passionated about new technologies. <br />
-• Experience of 3+ years in the IT field, working widely with web development and RPA (robotic process automation). <br />
-• Familiarity with agile methodologies, processes, team work and delivery-oriented development. <br />
-• Based in São Paulo, Brazil. <br />
+<b>Automation Analyst</b> & <b>Web Developer</b> passionated about new technologies. <br />
+Experience of 3+ years in the IT field, working widely with web development and RPA (robotic process automation). <br />
+Familiarity with agile methodologies, processes, team work and delivery-oriented development. <br />
+Based in São Paulo, Brazil. <br />
 
 Furthermore: I love open source projects!
 
@@ -39,6 +39,10 @@ Furthermore: I love open source projects!
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=tasks&show_owner=false&theme=dracula&cache_seconds=1800" />
 </a>
 
+<a href="https://github.com/pzzzl/kino-installer">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=kino-installer&show_owner=false&theme=dracula&cache_seconds=1800" />
+</a>
+
 <a href="https://github.com/pzzzl/correios-cep-tester">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=correios-cep-tester&show_owner=false&theme=dracula&cache_seconds=1800" />
 </a>
@@ -48,3 +52,9 @@ Furthermore: I love open source projects!
 <a href="https://github.com/mdn/translated-content">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdn&repo=translated-content&show_owner=true&theme=dracula&cache_seconds=1800" />
 </a>
+
+<a href="https://github.com/trbflxr/kino">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trbflxr&repo=kino&show_owner=true&theme=dracula&cache_seconds=1800" />
+</a>
+
+
