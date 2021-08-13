@@ -47,6 +47,10 @@ Furthermore: I love open source projects!
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=correios-cep-tester&show_owner=false&theme=dracula&cache_seconds=1800" />
 </a>
 
+<a href="https://github.com/pzzzl/tcc">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=tcc&show_owner=false&theme=dracula&cache_seconds=1800" />
+</a>
+
 ### Other projects I've contributed to 🤝🏻
 
 <a href="https://github.com/mdn/translated-content">
