@@ -2,6 +2,9 @@
 
 <img align="center" src="https://raw.githubusercontent.com/pzzzl/pzzzl/main/typing.gif"></img>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### About 👨🏻
 
 <b>Automation Analyst</b> & <b>Web Developer</b> passionated about new technologies. <br />
