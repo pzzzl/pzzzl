@@ -3,6 +3,11 @@
 <img align="center" src="https://raw.githubusercontent.com/pzzzl/pzzzl/main/typing.gif"></img>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   43 mins         ██████████████░░░░░░░░░░░   55.36 % 
+HTML         33 mins         ██████████▒░░░░░░░░░░░░░░   41.99 % 
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+```
 <!--END_SECTION:waka-->
 
 ### About 👨🏻
