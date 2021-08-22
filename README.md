@@ -1,13 +1,19 @@
-### Welcome! 👨🏻‍💻
+<h1 align="center">Welcome! 👨🏻‍💻</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/pzzzl/pzzzl/main/typing.gif"></img>
+<p align="center">
+    <a href="https://www.peselli.dev">Website</a> • <a href="https://www.linkedin.com/in/brunopeselli/">LinkedIn</a> • <a href="https://dribbble.com/pzzzl">Dribbble</a> • <a href="mailto:bruno@peselli.dev">E-mail</a>
+</p>
 
-- [Welcome! 👨🏻‍💻](#welcome-)
-- [Stats ⚡](#stats-)
-- [About 👨🏻](#about-)
-- [Contact 📞](#contact-)
-- [Projects 🛠](#projects-)
-- [Other projects I've contributed to 🤝🏻](#other-projects-ive-contributed-to-)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/pzzzl/pzzzl/main/typing.gif">
+</p>
+
+<p align="center">
+    <a href="#stats-">Stats ⚡</a><br>
+    <a href="#about-">About 👨🏻</a><br>
+    <a href="#projects-">Projects 🛠</a><br>
+    <a href="#other-projects-ive-contributed-to-">Other projects I've contributed to 🤝🏻</a><br>
+</p>
 
 ### Stats ⚡
 
@@ -31,13 +37,6 @@ Familiarity with agile methodologies, processes, team work and delivery-oriented
 Based in São Paulo, Brazil. <br />
 
 Furthermore: I love open source projects!
-
-### Contact 📞
-
-• <a href="https://www.peselli.dev">Website</a> <br />
-• <a href="https://www.linkedin.com/in/brunopeselli/">LinkedIn</a> <br />
-• <a href="https://dribbble.com/pzzzl">Dribbble</a> <br />
-• <a href="mailto:bruno@peselli.dev">E-mail</a>
 
 ### Projects 🛠
 
