@@ -2,6 +2,8 @@
 
 <img align="center" src="https://raw.githubusercontent.com/pzzzl/pzzzl/main/typing.gif"></img>
 
+### Stats ⚡
+
 <!--START_SECTION:waka-->
 ```text
 Week: 15 August, 2021 - 21 August, 2021
@@ -30,12 +32,7 @@ Furthermore: I love open source projects!
 • <a href="https://dribbble.com/pzzzl">Dribbble</a> <br />
 • <a href="mailto:bruno@peselli.dev">E-mail</a>
 
-<a href="#user-activity-overview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pzzzl&theme=dracula&custom_title=Stats&hide=stars&count_private=true&show_icons=true&cache_seconds=1800&include_all_commits=true" />
-</a> <br />
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzzzl&layout=compact&theme=dracula&custom_title=Top%20languages&cache_seconds=1800&card_width=445&langs_count=10" />
-</a>
+
 
 ### Projects 🛠
 
