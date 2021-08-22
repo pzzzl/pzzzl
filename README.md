@@ -1,7 +1,10 @@
 <h1 align="center">Welcome! 👨🏻‍💻</h1>
 
 <p align="center">
-    <a href="https://www.peselli.dev">Website</a> • <a href="https://www.linkedin.com/in/brunopeselli/">LinkedIn</a> • <a href="https://dribbble.com/pzzzl">Dribbble</a> • <a href="mailto:bruno@peselli.dev">E-mail</a>
+    <a href="https://www.peselli.dev">Website</a> •
+    <a href="https://www.linkedin.com/in/brunopeselli/">LinkedIn</a> • 
+    <a href="https://dribbble.com/pzzzl">Dribbble</a> • 
+    <a href="mailto:bruno@peselli.dev">E-mail</a>
 </p>
 
 <p align="center">
@@ -11,6 +14,7 @@
 <p align="center">
     <a href="#stats-">Stats ⚡</a><br>
     <a href="#about-">About 👨🏻</a><br>
+    <a href="#technologies-">Technologies ⚙</a><br>
     <a href="#projects-">Projects 🛠</a><br>
     <a href="#other-projects-ive-contributed-to-">Other projects I've contributed to 🤝🏻</a><br>
 </p>
@@ -32,11 +36,48 @@ TypeScript   27 mins         █▓░░░░░░░░░░░░░░░
 ### About 👨🏻
 
 <b>Automation Analyst</b> & <b>Web Developer</b> passionated about new technologies. <br />
-Experience of 3+ years in the IT field, working widely with web development and RPA (robotic process automation). <br />
+Experience of 3+ years in the IT field working with web development and RPA (robotic process automation). <br />
 Familiarity with agile methodologies, processes, team work and delivery-oriented development. <br />
 Based in São Paulo, Brazil. <br />
 
 Furthermore: I love open source projects!
+
+### Technologies ⚙
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br>
+
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<br>
+
+
+
 
 ### Projects 🛠
 
