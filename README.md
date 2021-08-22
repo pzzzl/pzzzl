@@ -2,6 +2,13 @@
 
 <img align="center" src="https://raw.githubusercontent.com/pzzzl/pzzzl/main/typing.gif"></img>
 
+- [Welcome! 👨🏻‍💻](#welcome-)
+- [Stats ⚡](#stats-)
+- [About 👨🏻](#about-)
+- [Contact 📞](#contact-)
+- [Projects 🛠](#projects-)
+- [Other projects I've contributed to 🤝🏻](#other-projects-ive-contributed-to-)
+
 ### Stats ⚡
 
 <!--START_SECTION:waka-->
@@ -31,8 +38,6 @@ Furthermore: I love open source projects!
 • <a href="https://www.linkedin.com/in/brunopeselli/">LinkedIn</a> <br />
 • <a href="https://dribbble.com/pzzzl">Dribbble</a> <br />
 • <a href="mailto:bruno@peselli.dev">E-mail</a>
-
-
 
 ### Projects 🛠
 
