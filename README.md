@@ -43,27 +43,27 @@ Furthermore: I love open source projects!
 
 <a href="https://github.com/pzzzl/p55">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=p55&show_owner=false&theme=dracula&cache_seconds=1800" />
-</a>
+</a> <br>
 
 <a href="https://github.com/pzzzl/rpachallenge">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=rpachallenge&show_owner=false&theme=dracula&cache_seconds=1800" />
-</a>
+</a> <br>
 
 <a href="https://github.com/pzzzl/tasks">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=tasks&show_owner=false&theme=dracula&cache_seconds=1800" />
-</a>
+</a> <br>
 
 <a href="https://github.com/pzzzl/10fastfingers-bot">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=10fastfingers-bot&show_owner=false&theme=dracula&cache_seconds=1800" />
-</a>
+</a> <br>
 
 <a href="https://github.com/pzzzl/kino-installer">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=kino-installer&show_owner=false&theme=dracula&cache_seconds=1800" />
-</a>
+</a> <br>
 
 <a href="https://github.com/pzzzl/correios-cep-tester">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=correios-cep-tester&show_owner=false&theme=dracula&cache_seconds=1800" />
-</a>
+</a> <br>
 
 <a href="https://github.com/pzzzl/tcc">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=tcc&show_owner=false&theme=dracula&cache_seconds=1800" />
@@ -73,7 +73,7 @@ Furthermore: I love open source projects!
 
 <a href="https://github.com/mdn/translated-content">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdn&repo=translated-content&show_owner=true&theme=dracula&cache_seconds=1800" />
-</a>
+</a> <br>
 
 <a href="https://github.com/trbflxr/kino">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trbflxr&repo=kino&show_owner=true&theme=dracula&cache_seconds=1800" />
