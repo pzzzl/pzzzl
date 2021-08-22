@@ -51,10 +51,6 @@ Furthermore: I love open source projects!
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=tasks&show_owner=false&theme=dracula&cache_seconds=1800" />
 </a>
 
-<a href="https://github.com/pzzzl/10fastfingers-bot">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=10fastfingers-bot&show_owner=false&theme=dracula&cache_seconds=1800" />
-</a>
-
 <a href="https://github.com/pzzzl/kino-installer">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pzzzl&repo=kino-installer&show_owner=false&theme=dracula&cache_seconds=1800" />
 </a>
