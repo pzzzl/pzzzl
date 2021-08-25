@@ -23,13 +23,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2021 - 23 August, 2021
+Week: 18 August, 2021 - 24 August, 2021
 
-JavaScript   3 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   34.19 % 
-Python       2 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
-Markdown     2 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 % 
-HTML         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-JSON         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JavaScript   2 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   31.20 % 
+Python       2 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 % 
+Markdown     2 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+JSON         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+TypeScript   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
 
