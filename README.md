@@ -23,13 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
-Python       5 hrs 3 mins    ████████████████████████░   96.39 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python       5 hrs 3 mins    ████████████████████████▒   97.45 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
