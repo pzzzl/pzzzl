@@ -23,11 +23,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
+Week: 07 September, 2021 - 13 September, 2021
 
-Python       59 mins         ██████████████████████▓░░   90.99 % 
-Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Python   24 mins         ████████████████████████▓   98.02 % 
 ```
 <!--END_SECTION:waka-->
 
