@@ -23,9 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
-
-JavaScript   55 mins         ████████████████████████▓   99.26 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
